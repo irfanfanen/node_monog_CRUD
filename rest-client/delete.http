@@ -1,0 +1,7 @@
+DELETE http://localhost:8000/delete
+Content-Type: application/json
+
+{
+    "username": "codewithAzzanx",
+    "nickname": "New Azzanx"
+}

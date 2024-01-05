@@ -1,0 +1,7 @@
+PUT http://localhost:8000/update
+Content-Type: application/json
+
+{
+    "username": "codewithAzzanx",
+    "nickname": "New Azzanx"
+}
